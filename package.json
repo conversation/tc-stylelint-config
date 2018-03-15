@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/conversation/tc-stylelint-config/issues"
   },
-  "homepage": "https://github.com/conversation/tc-stylelint-config#readme"
+  "homepage": "https://github.com/conversation/tc-stylelint-config#readme",
+  "peerDependencies": {
+    "stylelint": "~9.1.0"
+  }
 }

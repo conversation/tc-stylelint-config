@@ -1,10 +1,19 @@
 # tc-stylelint-config
+
 Standard TC sharable config for stylelint
+
+https://github.com/stylelint/stylelint
 
 ## Usage
 
+First you'll need to install stylelint. In order to get a consistent version, it's recommended that you leverage the peer dependencies of this package.
+
 ```
-npm i -D conversation/tc-stylelint-config
+npm i -G install-peerdeps
+```
+
+```
+install-peerdeps -D conversation/tc-stylelint-config
 ```
 
 Create a `stylelint.config.js` in the root directory of the project you are intending to use stylelint with, insert the following:
