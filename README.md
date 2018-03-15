@@ -7,7 +7,7 @@ Standard TC sharable config for stylelint
 npm i -D conversation/tc-stylelint-config
 ```
 
-Create a `styleline.config.js` in the project you are intending to use stylelint with, insert the following:
+Create a `stylelint.config.js` in the root directory of the project you are intending to use stylelint with, insert the following:
 
 ```js
 module.exports = {
