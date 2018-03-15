@@ -19,4 +19,4 @@ That's it!
 
 ## Adding and removing rules
 
-Be sure to discuss with the rest of the team before adding and removing rules. The easiest way is to create a pull request with examples and reasons why you want to modify the rules.
+Be sure to discuss with the rest of the team before modifying rules. The easiest way is to create a pull request with examples and reasons why you want to make the change.
