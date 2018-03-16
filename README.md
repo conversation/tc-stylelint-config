@@ -2,7 +2,8 @@
 
 Standard TC sharable config for stylelint
 
-https://github.com/stylelint/stylelint
+ - https://github.com/stylelint/stylelint
+ - https://github.com/stylelint/stylelint/blob/master/docs/user-guide/rules.md
 
 ## Usage
 
