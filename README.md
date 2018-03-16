@@ -9,7 +9,7 @@ https://github.com/stylelint/stylelint
 Installing this package will also install the appropriate version of stylelint to match the configured rules.
 
 ```
-npm i -D conversation/tc-stylelint-config#0.1.0
+npm i -D conversation/tc-stylelint-config#0.0.1
 ```
 
 Create a `stylelint.config.js` in the root directory of the project you are intending to use stylelint with, insert the following:
