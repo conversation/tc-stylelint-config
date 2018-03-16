@@ -48,7 +48,7 @@ For example, to upgrade to 9.1.0:
 npm i --save-exact stylelint@9.1.0
 ```
 
-If you choose to upgrade stylelint or change the rules, you should bump the minor version, and push up a new tag matching the latest version. If there are drastic changes, consider bumping the major version.
+If you choose to upgrade stylelint or change the rules, you should also bump the minor version, and push up a new tag matching the latest version. If there are drastic changes, consider bumping the major version.
 
 ```
 git commit -m "Prepare to release 7.6.5"
