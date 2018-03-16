@@ -6,7 +6,7 @@ https://github.com/stylelint/stylelint
 
 ## Usage
 
-Installing this package will also install the appropriate stylelint to match the configured rules.
+Installing this package will also install the appropriate version of stylelint to match the configured rules.
 
 ```
 npm i -D conversation/tc-stylelint-config#0.1.0
@@ -52,7 +52,7 @@ If you choose to upgrade stylelint or change the rules, you should also bump the
 
 ```
 git commit -m "Prepare to release 7.6.5"
-git tag -a 7.6.5
+git tag -a 7.6.5 -m "7.6.5"
 git push origin 7.6.5
 ```
 
