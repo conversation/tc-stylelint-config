@@ -16,6 +16,9 @@
     "url": "https://github.com/conversation/tc-stylelint-config/issues"
   },
   "homepage": "https://github.com/conversation/tc-stylelint-config#readme",
+  "dependencies": {
+    "stylelint": "~9.1.0"
+  },
   "peerDependencies": {
     "stylelint": "~9.1.0"
   }
