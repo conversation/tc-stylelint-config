@@ -16,6 +16,7 @@ module.exports = {
     "function-url-quotes": "always",
     "indentation": [2, { "ignore": "inside-parens" }],
     "length-zero-no-unit": true,
+    "max-empty-lines": 1,
     "max-nesting-depth": 7,
     "no-eol-whitespace": true,
     "no-missing-end-of-source-newline": true,
